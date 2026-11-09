@@ -1,0 +1,25 @@
+[INFO   ] Logger: Record log in /data/data/com.vscodroid/files/projects/.kivy/logs/kivy_26-11-10_0.txt
+[DEBUG  ] Config: Upgrading from 0 to 1
+[WARNING] Config: Upgrading configuration in progress.
+[WARNING] Config: Older configuration version detected (0 instead of 29)
+[INFO   ] Kivy: v3.0.0.dev0
+[INFO   ] Kivy: Installed at "/data/data/com.vscodroid/cache/tmp/pip-req-build-o6cse8uy/kivy/__init__.py"
+[INFO   ] Python: v3.14.10 (main, Nov  5 2026, 05:25:26) [Clang 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 9f872551d
+[INFO   ] Python: Interpreter at "/data/data/com.vscodroid/files/projects/.venv/bin/python3"
+[INFO   ] Logger: Purge log fired. Processing...
+[INFO   ] Logger: Purge finished!
+[INFO   ] running egg_info
+[INFO   ] creating Kivy.egg-info
+[INFO   ] writing Kivy.egg-info/PKG-INFO
+[INFO   ] writing dependency_links to Kivy.egg-info/dependency_links.txt
+[INFO   ] writing requirements to Kivy.egg-info/requires.txt
+[INFO   ] writing top-level names to Kivy.egg-info/top_level.txt
+[INFO   ] writing manifest file 'Kivy.egg-info/SOURCES.txt'
+[INFO   ] reading manifest file 'Kivy.egg-info/SOURCES.txt'
+[INFO   ] reading manifest template 'MANIFEST.in'
+[WARNING] warning: no files found matching '*.txt' under directory 'kivy/tools'
+[WARNING] warning: no files found matching '*.bat' under directory 'kivy/tools'
+[WARNING] warning: no files found matching '*.pyd' under directory 'kivy'
+[WARNING] warning: no files found matching '*.m' under directory 'kivy'
+[INFO   ] adding license file 'LICENSE'
+[INFO   ] writing manifest file 'Kivy.egg-info/SOURCES.txt'
